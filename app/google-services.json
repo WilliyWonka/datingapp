@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762103317945",
+    "project_id": "datingapp-46b39",
+    "storage_bucket": "datingapp-46b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762103317945:android:c083912e8a389afad6e268",
+        "android_client_info": {
+          "package_name": "com.william.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762103317945-nhmlkekeo7rrjt8njo9hgggo2s4nn8sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.william.datingapp",
+            "certificate_hash": "6cf36a87a81f5883c13a170d4cd981c5c3b4e0b9"
+          }
+        },
+        {
+          "client_id": "762103317945-k1184ss3t0vi3vhim57qh7n0ruikn6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUY-U0dUjrsQIyNJLQY9rkW_eleCZZt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762103317945-k1184ss3t0vi3vhim57qh7n0ruikn6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
